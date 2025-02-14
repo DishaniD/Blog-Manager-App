@@ -10,10 +10,13 @@ This is a **Blog Manager App** built with **React, TypeScript, and Tailwind CSS*
 
 
 ## ✨ Features
-- 📜 Fetch and display blog posts from JSONPlaceholder API
-- ✍️ Create, update, and delete blog posts
-- 🎨 Responsive UI with Tailwind CSS
-- 🔧 TypeScript for type safety
+
+- 📜 **Fetch & Display Posts** - Retrieve blog posts from JSONPlaceholder API with a seamless and dynamic UI.
+- ✍️ **Create, Update & Delete** - Manage your blog content effortlessly with full CRUD functionality.
+- 🔎 **Search & Filter** - Quickly find blog posts with an intuitive search bar and category-based filtering.
+- 🎨 **Responsive & Modern UI** - Enjoy a sleek and mobile-friendly interface powered by Tailwind CSS.
+- 🔧 **TypeScript Integration** - Benefit from strong typing, better maintainability, and fewer bugs.
+
 
 ## 🛠️ Getting Started
 Follow the steps below to run the project locally.
