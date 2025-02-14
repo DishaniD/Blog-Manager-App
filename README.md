@@ -3,7 +3,7 @@
 This is a **Blog Manager App** built with **React, TypeScript, and Tailwind CSS**. It interacts with the **JSONPlaceholder API** for CRUD operations. The app is designed to be deployed on **Vercel or Netlify**.
 
 ## 🚀 Live Demo
-Check out the live version of the app here: Blog Manager App
+Blog Manager App 
 
 ## ✨ Features
 - 📜 Fetch and display blog posts from JSONPlaceholder API
