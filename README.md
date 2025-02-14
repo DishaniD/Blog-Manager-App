@@ -1,6 +1,6 @@
 # Blog Manager App
 
-This is a **Blog Manager App** built with **React, TypeScript, and Tailwind CSS**. It interacts with the **JSONPlaceholder API** for CRUD operations. The app is designed to be deployed on **Vercel **.
+This is a **Blog Manager App** built with **React, TypeScript, and Tailwind CSS**. It interacts with the **JSONPlaceholder API** for CRUD operations. The app is designed to be deployed on **Vercel**.
 
 
 
