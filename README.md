@@ -64,9 +64,5 @@ You can deploy this app to **Vercel** or **Netlify**:
 - **Vercel**: Run `vercel` in the project root (after installing [Vercel CLI](https://vercel.com/docs/cli)).
 - **Netlify**: Push your code to GitHub and connect the repo to Netlify.
 
-## Contributing
-If you want to contribute, feel free to fork the repo and create a pull request.
 
-## License
-This project is licensed under the MIT License.
 
